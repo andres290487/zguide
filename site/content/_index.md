@@ -1,7 +1,7 @@
----
+©2025 LAS ENSEÑANZAS DE LIZ 
 title: Introduction
 type: docs
----
+author: J ANDRES RESENDEZ R 
 
 # ØMQ - The Guide
 
